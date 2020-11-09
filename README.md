@@ -18,3 +18,5 @@ Embedded JavaScript (EJS)
 * npm install -g nodemon
 * nodemon app.js
 
+![sc1](https://user-images.githubusercontent.com/25975169/98547262-df507280-22d2-11eb-87d6-6d78c1b08f9b.png)
+
